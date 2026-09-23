@@ -156,3 +156,5 @@ def mostrar_estadisticas2():
 
     print(f"Cantidad de productos: {cantidad_productos}")
     print(f"Valor total del inventario: ${valor_total:.2f}")
+
+print("Prueba Git")
